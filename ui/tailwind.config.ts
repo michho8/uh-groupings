@@ -23,13 +23,23 @@ const config = {
         extend: {
             colors: {
                 'green-blue': '#004e59',
+                'uh-blue4': '#4c90a8',
                 'uh-black': '#212121',
                 'uh-teal': '#0d7078',
+<<<<<<< HEAD
                 'uh-button': '#6fa9be',
                 'seafoam': '#e3f2ef',
                 'text-color': '#1c6070',
                 'link-color' : '#006ffa',
                 'link-hover-color' : '#0056b3'
+=======
+                'seafoam': '#e3f2ef',
+                'text-color': '#1c6070',
+                'text-primary': '#004252',
+                'link-color' : '#006ffa',
+                'link-hover-color' : '#0056b3',
+                'blue-background': '#00a6b2'
+>>>>>>> main
             },
             fontFamily: {
                 'source-sans-3': ['var(--font-source-sans-3)', 'Helvetica', 'Arial', 'sans-serif'],
